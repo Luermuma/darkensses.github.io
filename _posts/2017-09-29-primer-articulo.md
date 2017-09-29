@@ -1,18 +1,6 @@
----
-title: "Primer Articulo"
-categories: 
-    - Misc
-tags:
-    - Me
-    - Hello World
-    - Misc
-    - Blog
----
+#Hello GitHub
 
-### Primer articulo
-
-Este blog fue hecho con github y jekyll.
-
+Primer entrada a GitHub
 ~~~
-gem intall jekyll bundler
+print('Hola GitHub')
 ~~~

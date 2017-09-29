@@ -9,13 +9,13 @@ minimal_mistakes_skin    : "dark" # "air", "contrast", "dark", "dirt", "mint", "
 
 # Site Settings
 locale                   : "en"
-title                    : "Darkensses Code Blog"
+title                    : "Probando GitHub"
 title_separator          : "-"
-name                     : "Jasiel Guillen"
+name                     : "Luis Muñoz"
 description              : "An amazing website."
-url                      : "https://darkensses.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://luermuma.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "Darkensses/darkensses.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "Luermuma/luermuma.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -79,19 +79,19 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jasiel Guillén"
+  name             : "Luis Muñoz"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Ad Honorem. I'm an student from ITL and this my code blog"
   location         : "Torreón, MX"
-  email            : "darkensses@gmail.com"
+  email            : "ernestomartinez_099@outlook.com"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "Darkensses"
+  facebook         : "ElErnestito"
   foursquare       :
-  github           : "Darkensses"
+  github           : "Luermuma"
   gitlab           :
   google_plus      :
   keybase          :
